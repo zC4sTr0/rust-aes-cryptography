@@ -1,0 +1,10 @@
+[package]
+name = "gunbound-server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aes = "0.7"
+hex = "0.4"
+block-modes = "0.8"
+thiserror = "1.0"
